@@ -1,0 +1,12 @@
+{
+  "id": "spellAbsorbFix",
+  "name": "Spell absorb fix",
+  "author": "Bystander",
+  "version": "1.0.0",
+  "released": "02/16/2019",
+  "updated": "02/16/2019",
+  "description": "Fixed spell aobsorb bug for conjure/summon spells",
+  "requires": ["unifiedPatchingFramework"],
+  "moduleLoader": "UPF",
+  "canHotLoad": true
+}
